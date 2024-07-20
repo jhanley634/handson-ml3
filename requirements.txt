@@ -126,4 +126,4 @@ types-toml==0.10.8.7
 uszipcode==1.0.1
 watchdog==3.0.0
 widgetsnbextension==4.0.9
-ydata-profiling==4.6.3
+ydata-profiling>=4.9.0
